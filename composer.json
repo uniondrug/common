@@ -1,0 +1,35 @@
+{
+  "name": "uniondrug/common",
+  "type": "library",
+  "description": "Common tools for uniondrug/framework",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "UnionDrug R&D",
+      "email": "dev@uniondrug.cn"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-phalcon": "^3.2.0",
+    "uniondrug/framework": "^2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pails\\Controllers\\": "src/Controllers/",
+      "Pails\\Helpers\\": "src/Helpers/",
+      "Pails\\Interfaces\\": "src/Interfaces/",
+      "Pails\\Services\\": "src/Services/",
+      "Pails\\Structs\\": "src/Structs/",
+      "Pails\\Validators\\": "src/Validators/"
+    }
+  },
+  "suggests": {
+    "dragonmantank/cron-expression": "Required by cron expression validator"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "prefer-stable": true
+}
