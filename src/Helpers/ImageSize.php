@@ -4,7 +4,7 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-12-22
  */
-namespace Pails\Helpers;
+namespace Uniondrug\Common\Helpers;
 
 /**
  * 图片尺寸调整

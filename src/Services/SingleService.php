@@ -4,10 +4,10 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-11-16
  */
-namespace Pails\Services;
+namespace Uniondrug\Common\Services;
 
-use Pails\Interfaces\SingleFetchInterface;
-use Pails\Interfaces\SingleWriteInterface;
+use Uniondrug\Common\Interfaces\SingleFetchInterface;
+use Uniondrug\Common\Interfaces\SingleWriteInterface;
 use Phalcon\Exception;
 use Phalcon\Mvc\Model;
 

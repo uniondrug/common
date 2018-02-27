@@ -4,7 +4,7 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-11-16
  */
-namespace Pails\Interfaces;
+namespace Uniondrug\Common\Interfaces;
 
 use Phalcon\Mvc\ModelInterface;
 use Phalcon\Mvc\Model\ResultsetInterface;

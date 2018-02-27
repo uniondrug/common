@@ -4,7 +4,7 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-11-15
  */
-namespace Pails\Services;
+namespace Uniondrug\Common\Services;
 
 use Phalcon\Db\Adapter\Pdo\Mysql;
 use Phalcon\Di\Injectable;
