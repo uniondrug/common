@@ -4,9 +4,9 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-11-16
  */
-namespace Pails\Services;
+namespace Uniondrug\Common\Services;
 
-use Pails\Interfaces\SingleChildInterface;
+use Uniondrug\Common\Interfaces\SingleChildInterface;
 
 /**
  * 有上下级但无隶属关系的通用Service

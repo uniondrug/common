@@ -15,16 +15,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Pails\\Controllers\\": "src/Controllers/",
-      "Pails\\Helpers\\": "src/Helpers/",
-      "Pails\\Interfaces\\": "src/Interfaces/",
-      "Pails\\Services\\": "src/Services/",
-      "Pails\\Structs\\": "src/Structs/",
-      "Pails\\Validators\\": "src/Validators/"
+      "Uniondrug\\Common\\": "src/"
     }
-  },
-  "suggests": {
-    "dragonmantank/cron-expression": "Required by cron expression validator"
   },
   "config": {
     "sort-packages": true

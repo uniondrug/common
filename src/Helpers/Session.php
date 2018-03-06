@@ -4,7 +4,7 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-12-18
  */
-namespace Pails\Helpers;
+namespace Uniondrug\Common\Helpers;
 
 use Phalcon\Config;
 use Phalcon\Di;

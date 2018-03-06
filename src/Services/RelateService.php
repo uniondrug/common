@@ -4,10 +4,10 @@
  * @author wsfuyibing <websearch@163.com>
  * @date 2017-11-16
  */
-namespace Pails\Services;
+namespace Uniondrug\Common\Services;
 
-use Pails\Interfaces\RelateFetchInterface;
-use Pails\Interfaces\RelateWriteInterface;
+use Uniondrug\Common\Interfaces\RelateFetchInterface;
+use Uniondrug\Common\Interfaces\RelateWriteInterface;
 use Phalcon\Mvc\Model;
 use Phalcon\Exception;
 

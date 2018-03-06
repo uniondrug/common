@@ -123,8 +123,3 @@ class ExampleService extends RelateChildService
     * `fetchChildren()` - 读取下级记录列表
     * `fetchTree()` - 读取树形结构
     * `hasChild()` - 检查是否有下级记录
-
-### Structs
-
-### Validators
-
